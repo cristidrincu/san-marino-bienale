@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b04f6f63-2de4-4404-8fa7-86825816a27d" name="Default" comment="" />
+    <list default="true" id="b04f6f63-2de4-4404-8fa7-86825816a27d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Bienale.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo_exposition/logo_exposition.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo_san_marino/logo_san_marino.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pics_artisti_singolo/pic_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pics_works_artists/pic_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pics_artisti_singolo/pic_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pics_works_artists/pic_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_background_content_pages/pic_background_content_pages.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_background_home/pic_background_home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_san_marino/pic_san_marino.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_san_marino/pic_san_marino_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_san_marino/pic_san_marino_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_san_marino/pic_san_marino_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic_small_presentation_event/pic_small_presentation_event.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisti_singolo_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisti_singolo_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bienale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bienale_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bienale_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event_presentation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event_presentation_start_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event_presentation_start_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/san_marino.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Bienale.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
