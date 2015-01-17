@@ -1,0 +1,454 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:16px;
+}
+
+.clearFloats {
+	clear:both;
+}
+
+.mainBoxContainerBackgroundHome {
+	width:880px;
+	height:620px;
+	margin-left:auto;
+	margin-right:auto;
+	background: url(../images/pic_background_home/pic_background_home.jpg) no-repeat top center;
+}
+
+	.wrapperLinkEnterSite {
+		width:100px;
+		float:right;
+		margin-right:45px;
+		position:relative;
+		top:540px;
+	}
+	
+		.wrapperLinkEnterSite a {
+			font-size:11px;
+			color:#325e75;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		
+		.wrapperLinkEnterSite a:hover {
+			text-decoration:underline;
+		}
+		
+		
+/*css code for presentation of event*/
+
+.mainBoxContainerBackgroundContentPages {
+	width:880px;
+	height:620px;
+	margin-left:auto;
+	margin-right:auto;
+	background:url(../images/pic_background_content_pages/pic_background_content_pages.jpg) no-repeat top center;
+}
+
+	.leftColumnContentElements {
+		width:115px;
+		float:left;
+		position:relative;
+		top:45px;
+		margin-left:40px;
+	}
+	
+		.wrapperLogoSanMarino {
+			width:80px;
+			height:112px;
+			margin-left:15px;
+			margin-top:10px;
+			margin-bottom:60px;
+		}
+		
+		.wrapperMenuPresentationEvent {
+			width:90px;
+			text-align:left;
+			margin-left:15px;
+			margin-bottom:55px;
+		}
+		
+			.wrapperMenuPresentationEvent h3 {
+				margin:0;
+				padding:0;
+				font-size:12px;
+				color:#346177;
+				font-weight:bold;
+				padding-bottom:15px;
+			}
+			
+			.wrapperMenuPresentationEvent ul {
+				margin:0;
+				padding:0;
+				list-style:none;
+			}
+			
+				.wrapperMenuPresentationEvent ul li {
+					padding-bottom:5px;
+				}
+			
+				.wrapperMenuPresentationEvent ul li a {
+					text-decoration:none;
+					color:#fff;
+					font-weight:bold;
+				}
+				
+				.wrapperMenuPresentationEvent ul li a:hover {
+					text-decoration:underline;
+				}
+				
+		.wrapperLogoExposition {
+			width:97px;
+			height:91px;
+			margin-left:5px;
+		}
+	
+	.rightColumnContentElements {
+		width:675px;
+		float:right;
+		position:relative;
+		top:45px;
+	}
+	
+		.wrapperTitleSection {
+			width:inherit;
+			padding-top:35px;
+			margin-bottom:40px;
+		}
+		
+			.wrapperTitleSection h1 {
+				margin:0;
+				padding:0;
+				font-size:45px;
+				color:#e8eff2;
+			}
+			
+			.columnContentPresentationEvent {
+				width:325px;
+				float:left;
+			}
+			
+				.columnContentPresentationEvent p {
+					margin:0;
+					padding:0;
+					color:#47778d;
+					padding-bottom:10px;
+					font-size:11px;
+				}
+				
+			.columnPicPresentationEvent {
+				width:275px;
+				float:right;
+				margin-right:55px;
+			}
+			
+			
+/*css code for event_presentation_start_1.html*/
+
+.wrapperMenuPresentationEvent ul li a.activeMenuLink {
+	color:#325e75;
+}
+
+	.columnNamesDatesPresentationEvent {
+		width:275px;
+		float:right;
+		margin-right:40px;
+	}
+	
+		.columnNamesPresentationEvent {
+			width:75px;
+			height:405px;
+			border-left:1px solid #346177;
+			float:left;
+		}
+		
+		.columnNamesLargePresentationEvent {
+			width:100px;
+			height:405px;
+			border-left:1px solid #346177;
+			float:left;
+		}
+		
+			.columnNamesPresentationEvent ul, .columnNamesLargePresentationEvent ul {
+				margin:0;
+				padding:0;
+				list-style:none;
+				margin-left:5px;
+				font-size:9px;
+			}
+			
+				.columnNamesPresentationEvent ul li, .columnNamesLargePresentationEvent ul li {
+					padding-bottom:10px;
+					color:#346177;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.doubleSpaceLi {
+					padding-bottom:27px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.tripleSpaceLi {
+					padding-bottom:41px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.specialSpaceLi {
+					position:relative;
+					top:-3px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.specialSpaceLi2 {
+					position:relative;
+					top:12px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.specialSpaceLi3 {
+					position:relative;
+					top:30px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.specialSpaceLi4 {
+					position:relative;
+					top:27px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.specialSpaceLi5 {
+					position:relative;
+					top:44px;
+				}
+				
+				.columnNamesLargePresentationEvent ul li.specialSpaceLi6 {
+					position:relative;
+					top:46px;
+				}
+				
+				.columnNamesPresentationEvent ul li a {
+					text-decoration:none;
+					color:#47778d;
+				}
+				
+				.columnNamesPresentationEvent ul li a:hover {
+					text-decoration:underline;
+				}
+			
+				.columnNamesLargePresentationEvent ul li a {
+					text-decoration:none;
+					color:#47778d;
+				}
+				
+				.columnNamesLargePresentationEvent ul li a:hover {
+					text-decoration:underline;
+				}
+				
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi {
+					position:relative;
+					top:30px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi2 {
+					position:relative;
+					top:48px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi3 {
+					position:relative;
+					top:64px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi4 {
+					position:relative;
+					top:79px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi5 {
+					position:relative;
+					top:95px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi6 {
+					position:relative;
+					top:110px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi7 {
+					position:relative;
+					top:125px;
+				}
+				
+				.columnNamesPresentationEvent ul li.specialSpaceYearsLi8 {
+					position:relative;
+					top:129px;
+				}
+				
+				
+/*css for artisti singolo 1*/
+
+.rightColumnArtistiSingolo {
+		width:640px;
+		float:right;
+		position:relative;
+		top:45px;
+	}
+	
+	.wrapperTitlePicArtistiSingolo {
+		width:270px;
+		padding-top:35px;
+		margin-bottom:40px;
+		float:left;
+	}
+		
+			.wrapperTitlePicArtistiSingolo h1 {
+				margin:0;
+				padding:0;
+				font-size:45px;
+				color:#e8eff2;
+			}
+			
+	.wrapperPicArtistiSingolo {
+		width:265px;
+		float:right;
+		margin-right:65px;
+	}
+	
+		.picArtistiSingolo {
+			width:96px;
+			float:left;
+		}
+		
+		.infoArtistiSingolo {
+			width:145px;
+			float:right;
+			line-height:normal;
+		}
+		
+			.infoArtistiSingolo ul {
+				margin:0;
+				padding:0;
+				list-style:none;
+				color:#346177;
+				font-size:9px;
+			}
+			
+			
+	.containerArtistiGallery {
+		width:640px;
+	}
+	
+		.wrapperSection {
+			width:inherit;
+		}
+		
+			.wrapperSection h3 {
+				margin:0;
+				padding:0;
+				color:#346177;
+				font-size:14px;
+				padding-bottom:5px;
+			}
+		
+		.wrapperArtistName {
+			width:inherit;
+			margin-bottom:20px;
+		}
+		
+			.wrapperArtistName h1 {
+				margin:0;
+				padding:0;
+				color:#346177;
+				font-size:24px;
+				font-weight:normal;
+			}
+			
+		.wrapperPicWorkArtist {
+			width:467px;
+			float:left;
+		}
+		
+		.wrapperInfoWorkArtist {
+			width:155px;
+			float:right;
+		}
+		
+			.wrapperInfoWorkArtist ul {
+				margin:0;
+				padding:0;
+				list-style:none;
+				color:#346177;
+				font-size:10px;
+			}
+			
+				.wrapperInfoWorkArtist ul li {
+					padding-bottom:15px;
+				}
+				
+		.navigationNextArtist {
+			width:145px;
+			position:absolute;
+			bottom:0;
+		}
+		
+			.navigationNextArtist ul {
+				margin:0;
+				padding:0;
+				list-style:none;
+				display:inline;
+			}
+			
+				.navigationNextArtist ul li {
+					display:inline;
+					background-color:#346177;
+					padding:5px 5px;
+				}
+				
+					.navigationNextArtist ul li a {
+						text-decoration:none;
+						color:#fff;
+					}
+					
+					.navigationNextArtist ul li a:hover {
+						text-decoration:underline;
+					}
+					
+/*css code for credits*/
+
+.containerCredits {
+	width:610px;
+}
+
+	.wrapperMainInfoCredits {
+		width:inherit;
+		margin-bottom:30px;
+		
+	}
+
+	.wrapperInfo1 {
+		width:145px;
+		float:left;
+		margin-right:10px;
+	}
+	
+		.wrapperInfo1 p, .wrapperInfo2 p {
+			margin:0;
+			padding:0;
+			color:#346177;
+			font-size:10px;
+		}
+	
+	.wrapperInfo2 {
+		width:450px;
+		float:left;
+	}
+	
+		.wrapperInfo2 ul {
+			margin:0;
+			padding:0;
+			list-style:none;
+			color:#346177;
+			font-size:10px;
+		}
+		
